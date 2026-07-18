@@ -18,4 +18,4 @@ sequenceDiagram
     User->>+TravelMate_System: Confirm booking
     TravelMate_System->>TravelMate_System: Process payment
     TravelMate_System-->>-User: Booking confirmed
-```s
+```
