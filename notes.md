@@ -2,7 +2,7 @@
 
 ## Prediction
 
-I predict that the more powerful model will produce a noticeably better summary of the code. It should explain the logic and changes in more detail.
+I predict that the more powerful model will produce a noticeably better summary of the code. It should explain the logic and changes in more detail
 
 ## Claude's Summary
 
